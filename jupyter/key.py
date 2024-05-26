@@ -1,0 +1,1 @@
+fred_key = 'INSERT_YOUR_KEY_HERE'
