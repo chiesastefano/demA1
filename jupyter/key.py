@@ -1,1 +1,1 @@
-fred_key = 'INSERT YOUR KEY HERE'
+fred_key = 'efb8791f8d2fa21a6ae08ae7c5ceac46'
