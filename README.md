@@ -1,4 +1,4 @@
-![image](https://github.com/chiesastefano/demPS1/assets/146427197/333ec5fb-67f3-49b6-9aee-ad0a21881217)# Problem Set 1 DEM
+# Problem Set 1 DEM
 Team members: Akkaziyeva Aidana, Chiesa Stefano, El Kouch Inas, Liubas Nazar
 ## Data source:
 Data has been imported from **FRED** using APIs.
