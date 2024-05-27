@@ -8,6 +8,6 @@ The following files are essential for understanding and correcting the assignmen
 - **jupyter/presentation.ipynb**: runnable code in jupyter markown format;
 - **data/**: tables created using APIs.
 
-Note: to run the code directly from this project **you must to add your own FRED key in the file "jupyter/key.py"**.
+Note: to run the code directly from this project **you must add your own FRED key in the file "jupyter/key.py"**.
 
 
